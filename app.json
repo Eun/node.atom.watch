@@ -1,0 +1,7 @@
+{
+  "name": "heroku.atom.watch",
+  "description": "Heroku instance that provides utc time",
+  "repository": "https://github.com/Eun/heroku.atom.watch",
+  "keywords": ["node", "static"],
+  "image": "heroku/nodejs"
+}

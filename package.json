@@ -1,0 +1,23 @@
+{
+  "name": "heroku.atom.watch",
+  "version": "1.0",
+  "description": "Heroku instance that provides utc time",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Eun/heroku.atom.watch"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+  ],
+  "license": "MIT"
+}
