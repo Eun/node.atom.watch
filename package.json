@@ -1,7 +1,7 @@
 {
-  "name": "heroku.atom.watch",
+  "name": "node.atom.watch",
   "version": "1.0",
-  "description": "Heroku instance that provides utc time",
+  "description": "Node instance that provides utc time",
   "engines": {
     "node": "5.9.1"
   },
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Eun/heroku.atom.watch"
+    "url": "https://github.com/Eun/mode.atom.watch"
   },
   "keywords": [
     "node",
