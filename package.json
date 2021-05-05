@@ -1,6 +1,6 @@
 {
   "name": "node.atom.watch",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Node instance that provides utc time",
   "engines": {
     "node": "5.9.1"
